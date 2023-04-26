@@ -3,8 +3,9 @@
 
 
 **git status** - статус
-**git add file_name** - отслеживание файла
+**git add file_name** - отслеживание фай
+
+**git commit** фиксация изменений
 
 
-
-   интересно
+**git commit -m** фиксац в одну строку
