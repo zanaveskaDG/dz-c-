@@ -17,8 +17,13 @@
 
 **git diff** сравнить с последним коммитом
 
+asd
+
 ## вопрос: когда пишу git chekout master удаляется файл "seminar", что сделал не тк?
-XS
+
+adad
+daa
+daXS
 **git branch** показать все ветки и активную
 **git branch branch_name** СОЗДАТЬ НАЗВАТЬ ВЕТКУ
 **git merge** сдить ветки
