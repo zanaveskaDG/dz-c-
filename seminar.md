@@ -6,6 +6,10 @@
 **git add file_name** - отслеживание фай
 
 **git commit** фиксация изменений
+qwer
+qwer
+qwe
+qwer
 
 
 **git commit -m** фиксац в одну строку
@@ -25,9 +29,11 @@ adad
 daa
 daXS
 **git branch** показать все ветки и активную
+
 **git branch branch_name** СОЗДАТЬ НАЗВАТЬ ВЕТКУ
+
 **git merge** сдить ветки
-**git branch -d** удалить ветку
+
+**git branch -d** удалиь ветку
 **git checkout -b name_vetka** создать ветку и перейти на нее
-**git branch -D name_vetka** удалить не слитую ветку ветку
-**git reset HEAD~кол-во комитов назад** снести комиты
+**git branch -D name_vetka** удалить не слимиты
