@@ -5,13 +5,9 @@
 **git status** - статус
 **git add file_name** - отслеживание фай
 
-**git commit** фиксация изменений
-
-
-**git commit -m** фиксац в одну строку
-**git commit -am** сразу и эд и комит
-**git checkout** переход к  комиту (первые 4 символа)
-**git log** список коммитов
+qwer
+qwer
+qwer
 
 **git diff** сравнить с последним коммитом
 
