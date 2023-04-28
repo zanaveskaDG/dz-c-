@@ -1,19 +1,22 @@
+
+
+
 ## NAchalo
 **git init** -инициализация репозитория. посути для начала работы с этой лабудой
 
 
-**git status** - статус
-**git add file_name** - отслеживание фай
 
-**git commit** фиксация изменений
+**git add file_name** asdf
+
+
+qwer
 
 qw23
 
-**git commit -m** фиксац в одну строку
+sdfg
 **git commit -am** сразу и эд и комит
 **git checkout** переход к  комиту (первые 4 символа)
-**git log** список коммитов
-qw23
+**git log** 123
 **git diff** сравнить с последним коммитом
 
 qw23
@@ -21,11 +24,13 @@ qw23
 XS
 **git branch** показать все ветки и активную
 **git branch branch_name** СОЗДАТЬ НАЗВАТЬ ВЕТКУ
-**git merge** сдить ветки
+
+
+
 **git branch -d** удалить ветку
 **git checkout -b name_vetka** создать ветку и перейти на нее
-**git branch -D name_vetka** удалить не слитую ветку ветку
-**git reset HEAD~кол-во комитов назад** снести комиты
+qwerqwerqwe
+qwerqewrqw
 
 
 
